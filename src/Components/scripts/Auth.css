@@ -1,0 +1,68 @@
+.bg_banner{
+    background: url(../../images/bg.png) no-repeat center center fixed;
+    height: 100%;
+   background-size: cover;
+    filter: grayscale(100%);
+
+}
+/* 
+.op-layer{
+    height: 100%;
+    background: linear-gradient(88deg, rgb(0 0 0 / 84%) 2%, rgb(0 0 0 / 0%) 60%);
+} */
+
+.banner_text{
+    padding: 220px 86px;
+
+}
+.banner_text h1{
+font-size: 70px;
+/* font-weight: 800; */
+color: #fff;
+text-align: left;
+
+opacity: 1;
+text-transform: uppercase;
+}
+.banner_text h2{
+    font-size: 50px;
+    /* font-weight: 800; */
+    color: #fff;
+    text-align: left;
+    
+    opacity: 1;
+    text-transform: uppercase;
+    }
+.form-panel{
+    padding: 60px;
+  background: #191919;
+  max-width: 453px;
+  margin: 75px 10px 10px 100px;
+  border-radius: 20px;
+  color: #fff;
+}
+.dark_control{
+    /* background: #2B2B2B; */
+      font-size: 12px;
+      /* border: none; */
+      /* color: #fff; */
+      width: 300px;
+height: 40px;
+background: #2B2B2B 0% 0% no-repeat padding-box;
+border: 0.5px solid #2B2B2B;
+border-radius: 9px;
+opacity: 1;
+  }
+
+/* .register_box{
+    height: 600px;
+    border:1px solid red;
+    background-color: black;
+    color: white;
+    opacity: 1;
+} */
+
+.input_data{
+    border:1px solid white;
+}
+

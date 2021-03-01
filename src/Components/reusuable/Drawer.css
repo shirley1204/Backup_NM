@@ -1,0 +1,28 @@
+.drawerlist{
+    background-color:#191919;
+    color:white;
+    height:100%;
+    width: 100%;
+    
+     /* position:fixed;top:0%; left:0%; */
+     border:1px solid black;
+    border-radius:0px 25px 25px 0px; 
+}
+
+
+
+.sidenavlogo{
+    height: 80px;
+    width:50px;
+}
+.logo{
+    height: 140px;
+    width: 110px;
+    margin-left: 12%;
+}
+.brand_name{
+    margin-left: 30px;
+    color: black;
+    font-size: 10px;
+    
+}
